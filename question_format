@@ -1,0 +1,74 @@
+% QUESTIONS
+
+Is 	___	    an 	    uncle 		of 	    ___
+Is 	___	    a 	    sister 		of 	    ___
+Is 	___	    a 	    brother 	of 	    ___
+Is 	___	    the     mother 		of 	    ___
+Is 	___	    the     father 		of 	    ___
+Is 	___	    an 	    aunt 		of 	    ___
+Is 	___	    a 	    grandmother of 	    ___
+Is 	___	    a 	    grandfather of 	    ___
+Is 	___	    a 	    daughter 	of 	    ___
+Is 	___	    a 	    son 		of 	    ___
+Is 	___	    a 	    child 		of 	    ___
+0	1	    2	    3		    4	    5
+
+
+Are 	___, 	___	    and 	___		children 	of 	___
+Are 	___	    and 	___	    the 	parents 	of 	___
+0	    1	    2	    3	    4		5		    6	7
+
+Are 	___	    and 	___	    relatives?
+Are 	___	    and 	___	    siblings?
+0	    1	    2	    3	    4
+
+Who 	is 	the 	father 	of  ___
+Who 	is 	the 	mother 	of 	___
+0	    1	2	    3	    4	5
+
+
+Who 	are 	the 	siblings 	of 	___
+Who 	are 	the 	sisters 	of 	___
+Who 	are 	the 	parents 	of 	___
+Who 	are 	the 	children 	of	___
+Who 	are 	the 	brothers 	of 	___
+Who 	are 	the 	sons 		of 	___
+Who 	are 	the 	daughters 	of 	___
+0	    1	    2	    3		    4	5
+
+
+% STATEMENTS
+
+
+% Genderless
+___     and     ___     are     siblings.
+___     is      a       child   of          ___
+___     and     ___     are     the         parents     of          ___
+___,    ___     and     ___                 are         children    of      ___
+0       1       2       3       4           5           6           7       8
+
+% Male
+___     is      a       brother         of      ___
+___     is      the     father          of      ___
+___     is      a       grandfather     of      ___
+___     is      a       son             of      ___
+___     is      an      uncle           of      ___
+0       1       2       3               4       5
+
+
+% Female
+___     is      a       sister          of      ___
+___     is      the     mother          of      ___
+___     is      a       grandmother     of      ___
+___     is      a       daughter        of      ___
+___     is      an      aunt            of      ___
+0       1       2       3               4       5
+
+
+
+
+
+
+
+
+
